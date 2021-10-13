@@ -1,2 +1,4 @@
 matematik=85
 print(matematik)
+
+matematik=100
